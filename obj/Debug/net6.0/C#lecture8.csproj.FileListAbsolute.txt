@@ -1,0 +1,15 @@
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\bin\Debug\net6.0\C#lecture8.exe
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\bin\Debug\net6.0\C#lecture8.deps.json
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\bin\Debug\net6.0\C#lecture8.runtimeconfig.json
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\bin\Debug\net6.0\C#lecture8.dll
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\bin\Debug\net6.0\C#lecture8.pdb
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\obj\Debug\net6.0\C#lecture8.csproj.AssemblyReference.cache
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\obj\Debug\net6.0\C#lecture8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\obj\Debug\net6.0\C#lecture8.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\obj\Debug\net6.0\C#lecture8.AssemblyInfo.cs
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\obj\Debug\net6.0\C#lecture8.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\obj\Debug\net6.0\C#lecture8.dll
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\obj\Debug\net6.0\refint\C#lecture8.dll
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\obj\Debug\net6.0\C#lecture8.pdb
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\obj\Debug\net6.0\C#lecture8.genruntimeconfig.cache
+C:\Users\asp.APTECHNN2\Documents\C#lecture8\obj\Debug\net6.0\ref\C#lecture8.dll
